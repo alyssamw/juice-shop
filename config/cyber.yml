@@ -60,6 +60,7 @@ application:
       - { uri: 'http://demo.owasp-juice.shop' }
       - { uri: 'https://juice-shop.herokuapp.com' }
       - { uri: 'http://juice-shop.herokuapp.com' }
+      - { uri: 'https://cyber-juice-punch.herokuapp.com' }
       - { uri: 'https://preview.owasp-juice.shop' }
       - { uri: 'http://preview.owasp-juice.shop' }
       - { uri: 'https://juice-shop-staging.herokuapp.com' }
